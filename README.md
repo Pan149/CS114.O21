@@ -12,7 +12,7 @@
 
 
 ## 💻Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 
 
@@ -27,3 +27,10 @@
 | :---: | --- | --- |
 | 1 | **PGS.TS. Lê Đình Duy** | *duyld@uit.edu.vn* |
 | 2 | **Ths. Phạm Nguyễn Trường An** | *truonganpn@uit.edu.vn* |
+
+## THÀNH VIÊN NHÓM
+ 
+| STT | Họ tên | MSSV | Email |
+| :---: | --- | --- | --- |
+| 1 | **Nguyễn Hoàng Phúc** | *22521129* | *22521129@gm.uit.edu.vn* |
+| 2 | **Võ Đức Phước An** | *22520035* | *22520035@gm.uit.edu.vn* |
